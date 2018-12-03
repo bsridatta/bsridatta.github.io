@@ -3,10 +3,10 @@ repository: sproogen/resume-theme
 # favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Sri Datta Budaraju
+title: Computer Science Student
+email: b.sridatta@gmail.com
+website: https://github.com/bsridatta/bsridatta.github.io
 
 # Social links
 github_username:  bsridatta
@@ -24,10 +24,13 @@ facebook_username: sridatta.budaraju
 # about_title: About Me
 #about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
-
+  Hi, my name's Datta and I'm a Computer Science masters student at KTH Royal Institute of Technology, Sweden. 
+  I consider myself a curious person and have experimented with different areas in Computer Science from Android Development to Sensor Technology.
+  I pretty loved "everything" that I did but at the bottom of my heart I love Physics and the way it teaches us about nature.
+  Like many of you reading this I wanted see what this "AI" is about. 
+  Thanks to Andrew NG's DeepLearning.ai and Siraj Raval's motivational videos, 
+  I was so fascinated by the scope of its applications and I immediatly packed my bags to Stockholm to get really involved.
+  Now I spend majority of my time doing very interesting courses at KTH and working on an autonomous F1 car at KTH Formula Student.  
 # Projects Section
 # projects_title: Projects
 
