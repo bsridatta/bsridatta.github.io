@@ -6,7 +6,7 @@ repository: sproogen/resume-theme
 name: Sri Datta Budaraju
 title: Computer Science Student
 email: b.sridatta@gmail.com
-mobile:  
+Mobile : +076-965 65 35 
 
 # Social links
 github_username:  bsridatta
@@ -36,6 +36,9 @@ about_content: | # this will include new lines to allow paragraphs
 
 
 # Experience Section
+
+
+
 # experience_title: Experience
 
 # Education Section
@@ -51,7 +54,7 @@ more_content: | # this will include new lines to allow paragraphs
    - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 
 # Build settings
 remote_theme: sproogen/resume-theme
