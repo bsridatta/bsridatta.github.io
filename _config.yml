@@ -6,7 +6,7 @@ repository: sproogen/resume-theme
 name: Sri Datta Budaraju
 title: Computer Science Student
 email: b.sridatta@gmail.com
-website: https://github.com/bsridatta/bsridatta.github.io
+mobile:  
 
 # Social links
 github_username:  bsridatta
@@ -30,7 +30,7 @@ about_content: | # this will include new lines to allow paragraphs
   Like many of you reading this I wanted see what this "AI" is about. 
   Thanks to Andrew NG's DeepLearning.ai and Siraj Raval's motivational videos, 
   I was so fascinated by the scope of its applications and I immediatly packed my bags to Stockholm to get really involved.
-  Now I spend majority of my time doing very interesting courses at KTH and working on an autonomous F1 car at KTH Formula Student.  
+  Now I spend majority of my time doing very interesting courses at KTH and working on an autonomous F1 car at KTH Formula Student. I run on Music, Movies and Pizza.  
 # Projects Section
 # projects_title: Projects
 
