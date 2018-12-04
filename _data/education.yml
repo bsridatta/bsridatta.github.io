@@ -1,20 +1,25 @@
 - name: KTH Royal Institute of Technology
   dates: 2018 – 2020
-  qualification: Master's degree, Computer Science, Major - ML
+  qualification: Master's degree, Computer Science Major - Machine Learning
   quote: >
   #Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
   description: | # this will include new lines to allow paragraphs
   
 - name: Amrita Vishwa Vidyapeetham
   dates: 2015 – 2018
-  qualification: Bachelor of Technology, Computer Science
+  qualification: Bachelor of Technology,
+  Computer Science
   quote: >
   #Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
   description: | # this will include new lines to allow paragraphs
   
-- name: FIITJEE
-  dates: 2013 – 2015
-  qualification: Upper Secondary School Major in Maths, Physics, and Chemistry
-  quote: >
-  #Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-  description: | # this will include new lines to allow paragraphs
+# - name: FIITJEE
+#   dates: 2013 – 2015
+#   qualification: Upper Secondary School Major in Maths, Physics, and Chemistry
+#   quote: >
+#   #Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+#   description: | # this will include new lines to allow paragraphs
+
+  #qualification: MSc. Computer Science, Major - ML
+  #qualification: BTech. Computer Science
+  
