@@ -1,7 +1,8 @@
 # Site
 repository: bsridatta/bsridatta.github.io
 # favicon: images/favicon.ico
-
+redirect_to:
+  - https://www.linkedin.com/in/sridatta/
 # Personal info
 name: Sri Datta Budaraju
 title: Computer Science Student
@@ -66,3 +67,5 @@ sass:
 
 plugins:
  - jekyll-seo-tag
+ - jekyll-redirect-from
+
