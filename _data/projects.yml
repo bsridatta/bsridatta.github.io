@@ -23,7 +23,7 @@
   quote: >
     Road safety application which warns users of road hazards in real-time. Detects hazards using on-board IMU sensors and Crowd-Sources the data to alert other users. Built the whole working application during a 24-hour hackathon.
   description: | # this will include new lines to allow paragraphs
-    --Developed road safety application which warns users of road hazards in real-time
+    Developed road safety application which warns users of road hazards in real-time
     --Implemented algorithms to detect road hazards using IMU sensors
     --Analyzed the IMU sensor trends from a bike driven on a bad road
     --Crowd-Sourced the detections to Firebase Cloud Database
@@ -42,7 +42,7 @@
   quote: >
     Sentimental Analysis tool to analyze real-time trends of keywords in Twitter. Classified live tweets from twitter API using ensemble modelling and implemented live graphical visualizations.   
   description: | # this will include new lines to allow paragraphs
-    --A Sentimental Analysis tool to analyze real-time trends of keywords in Twitter
+    A Sentimental Analysis tool to analyze real-time trends of keywords in Twitter
     --Fetched Positive and Negative example sentences from online tutorials
     --Used Twitter API to fetch live tweets based on the keyword passed
     --Wrote functions to pass just adjective from the tweets into the classifiers
@@ -61,8 +61,7 @@
   quote: >
     Indoor position system that localizes users using dual band WiFi routers and Low Energy Bluetooth Beacons without any manual fingerprinting of the environment.  
   description: | # this will include new lines to allow paragraphs
-    Built a deep learning model to detect car accidents in video clips
-    --Implemented and tweaked YOLOv2 to detect cars in highway cams
+    Implemented and tweaked YOLOv2 to detect cars in highway cams
     --Wrote scripts to scrape video clips from Youtube
     --Collected a data set of 200+ accident/non-accident videos
     --Preprocessed the data-set to lessen the burden on the machine
@@ -83,7 +82,7 @@
   quote: >
     One of my most simple but elegant projects that I did so far. Wish I had some demos.
   description: | # this will include new lines to allow paragraphs
-    --Built an object detection and avoidance robot using Lego Mindstorms
+    Built an object detection and avoidance robot using Lego Mindstorms
     --Integrated LEGO brick, IR, Supersonic, touch, sound sensors to achieve required functions
     --Course correction, React to and search for sound sources like claps 
     
@@ -98,14 +97,14 @@
   quote: >
     An emergency train stopping cum Surveillance system designed for Indian Railways. Awarded as top 30 ideas by Amrita TBI- India's best Technological Business Incubator.  
   description: | # this will include new lines to allow paragraphs
-    --Built an emergency train stopping cum Surveillance system
+    Built an emergency train stopping cum Surveillance system
     --Devised an emergency button-Cam module using RPi
     --The RPi module alerts the onboard authority when a button is triggered
     --The data is then broadcasted to authority’s device using a local network
     --Created by hot-spot to deal with network issues in remote areas
     --This data is then uploaded from the device to the cloud for official purposes
     --The project was placed in the top 30 ideas by Amrita TBI
-    - India’s best Technological Business Incubator
+    -- India’s best Technological Business Incubator
 
 
     Python, Java, Android Studio, Raspberry Pi, Arduino
@@ -117,7 +116,7 @@
   quote: >
     My very first project that I was so passionate about. This is one of the reasons I had got into indoor localisation and worked in AMUDA labs. 
   description: | # this will include new lines to allow paragraphs
-    --An android application for visualizing the location of a book in the library
+    An android application for visualizing the location of a book in the library
     --Uses the information in the university database and maps the location
 
     Java, Android Studio, SQL
