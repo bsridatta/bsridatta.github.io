@@ -24,7 +24,7 @@ facebook_username: sridatta.budaraju
 # about_title: About Me
 #about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi! my name's Datta and I'm a Computer Science masters student at KTH Royal Institute of Technology, Sweden. 
+  Hi, my name's Datta and I'm a Computer Science masters student at KTH Royal Institute of Technology, Sweden. 
   I consider myself a curious person and have experimented with different areas in Computer Science from Android Development to Sensor Technology.
   I pretty much loved "everything" that I did but at the bottom of my heart, I love Physics and the way it teaches us about nature.
   Like many of you reading this I wanted to see what this "AI" is about. 
@@ -49,7 +49,7 @@ more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in Deep Learning and Autonomous Systems, some of my other interests and hobbies are:
    - Watching Movies
    - Listening to Music
-   - Exploring deeper parts of internet
+   - Admiring the beauty of nature
  
 # Footer
 footer_show_references: false
