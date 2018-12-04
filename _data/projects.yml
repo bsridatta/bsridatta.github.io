@@ -5,13 +5,12 @@
   quote: >
     Real time accident detection in video feeds using Hierarchical Recurrent Neural Networks with LSTM cells. Trained on hand sampled clips from YouTube. Part of my bachelor thesis.
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
-    --Built a deep learning model to detect car accidents in video clips
+    Built a deep learning model to detect car accidents in video clips
     --Implemented and tweaked YOLOv2 to detect cars in highway cams
     --Wrote scripts to scrape video clips from Youtube
-    --Collected a data-set of 200+ accident/non-accident videos
+    --Collected a data set of 200+ accident/non-accident videos
     --Preprocessed the data-set to lessen the burden on the machine
-    --Explored pre-trained models on the internet with the gathered videos
+    --Explored pre trained models on the internet with the gathered videos
     --Experimented with a few DL models for classification
     --Implemented HRNN with LSTM to classify the video clips
 
