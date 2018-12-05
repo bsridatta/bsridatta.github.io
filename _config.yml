@@ -1,5 +1,7 @@
 # Site
 repository: bsridatta/bsridatta.github.io
+#repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+
 # favicon: images/favicon.ico
 # redirect_to:
 #   - https://www.linkedin.com/in/sridatta/
@@ -64,7 +66,7 @@ footer_show_references: false
 # theme: modern-resume-theme (Use this is you are hosting your resume yourself)
 # remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
 
-remote_theme: sproogen/modern-resume-theme
+remote_theme: bsridatta/modern-resume-theme
 
 sass:
   sass_dir: _sass
