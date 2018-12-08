@@ -107,7 +107,7 @@
     -- India’s best Technological Business Incubator
 
 
-    <mark>Python</mark>, <mark>Java</mark>, <mark>Android Studio</mark>, <mark>Raspberry Pi</mark>, <mark>Arduino</mark>
+    <mark>Python</mark> <mark>Java</mark> <mark>Android Studio</mark> <mark>Raspberry Pi</mark> <mark>Arduino</mark>
 
 # Project template
 - name: book crawler
@@ -119,6 +119,6 @@
     An android application for visualizing the location of a book in the library
     --Uses the information in the university database and maps the location
 
-    <mark>Java</mark>, <mark>Android Studio</mark>, <mark>SQL</mark>
+    <mark>Java</mark> <mark>Android Studio</mark> <mark>SQL</mark>
 
  
