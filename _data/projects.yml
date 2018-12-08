@@ -14,7 +14,7 @@
     --Experimented with a few DL models for classification
     --Implemented HRNN with LSTM to classify the video clips
 
-    Python, Keras, Google Colabs
+    <mark>Python</mark> <mark>Keras</mark> <mark>Google Colabs</mark>
     
 # Project template
 - name: Safe Rider - Road Assistant
@@ -32,7 +32,7 @@
     --Internet and Mobile Association of India in which we won the 1st place 
     --Extended project doing experiments after the hackathon
 
-    Java, Android Studio, Google Maps, Navigations APIs , Firebase
+    <mark>Java</mark> <mark>Android Studio</mark> <mark>Google Maps</mark> <mark>Navigations APIs</mark>  <mark>Firebase</mark>
     
     
 # Project template
@@ -50,7 +50,7 @@
     --Built an interface window for the tool using TKinter
     --Integrated live graphical visualizations of the sentiments of the keyword
 
-    Python, NLTK, Sci-Kit, Tweepy, TKinter
+    <mark>Python</mark> <mark>NLTK</mark> <mark>Sci-Kit</mark> <mark>Tweepy</mark> <mark>TKinter</mark>
     
     
 
@@ -69,7 +69,7 @@
     --Experimented with a few DL models for classification
     --Implemented HRNN with LSTM to classify the video clips
 
-    Python, Java, Android Studio
+    <mark>Python</mark> <mark>Java</mark> <mark>Android Studio</mark>
 
 
     
@@ -86,7 +86,7 @@
     --Integrated LEGO brick, IR, Supersonic, touch, sound sensors to achieve required functions
     --Course correction, React to and search for sound sources like claps 
     
-    Lego Mindstorms, Lego NXT
+    <mark>Lego Mindstorms</mark> <mark>Lego NXT</mark>
 
 
 
@@ -107,7 +107,7 @@
     -- India’s best Technological Business Incubator
 
 
-    Python, Java, Android Studio, Raspberry Pi, Arduino
+    <mark>Python</mark>, <mark>Java</mark>, <mark>Android Studio</mark>, <mark>Raspberry Pi</mark>, <mark>Arduino</mark>
 
 # Project template
 - name: book crawler
@@ -119,6 +119,6 @@
     An android application for visualizing the location of a book in the library
     --Uses the information in the university database and maps the location
 
-    Java, Android Studio, SQL
+    <mark>Java</mark>, <mark>Android Studio</mark>, <mark>SQL</mark>
 
  
