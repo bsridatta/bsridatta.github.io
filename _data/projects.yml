@@ -56,8 +56,8 @@
 
 # Project template
 - name: Indoor Localization and Navigation
-  #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  link: sridatta.ml/Indoor-Localisation/
+  github: bsridatta/Indoor-Localisation
   quote: >
     Indoor position system that localizes users using dual band WiFi routers and Low Energy Bluetooth Beacons without any manual fingerprinting of the environment.  
   description: | # this will include new lines to allow paragraphs
