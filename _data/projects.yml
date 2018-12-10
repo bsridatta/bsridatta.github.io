@@ -38,7 +38,7 @@
 # Project template
 - name: Twitter'e'con
   #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  github: bsridatta/twittericon
   quote: >
     Sentimental Analysis tool to analyze real-time trends of keywords in Twitter. Classified live tweets from twitter API using ensemble modelling and implemented live graphical visualizations.   
   description: | # this will include new lines to allow paragraphs
