@@ -109,8 +109,27 @@
 
     <mark>Python</mark> <mark>Java</mark> <mark>Android Studio</mark> <mark>Raspberry Pi</mark> <mark>Arduino</mark>
 
+
 # Project template
-- name: book crawler
+- name: Timely
+  #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  github: bsridatta/Timely
+  quote: >
+    An andorid app that I built along with 2 of my juniors whom I trained as a part of a workshop that I conducted.   
+  description: | # this will include new lines to allow paragraphs
+    Full-Flegded Portal for faculty of Amrita helping them in their everyday tasks. 
+    --Interactive Timetable management
+    --Profile Management--Private and Group Chat
+    --Completly cloud based--Zero need for on device storage
+    --Multiple Authentication option
+    --Networking for task management between users and many more interesting features
+    --Material design UI
+    
+
+    <mark>Java</mark> <mark>Android Studio</mark> <mark>SQL</mark>
+
+# Project template
+- name: Book Crawler
   #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
