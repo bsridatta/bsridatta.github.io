@@ -24,8 +24,8 @@ facebook_username: sridatta.budaraju
 # googleplus_username: +jekyll
 
 # About Section
-# about_title: About Me
-#about_profile_image: images/profile.jpg
+about_title: A Li'l About Me
+about_profile_image: images/best.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Sri Datta and I'm a Computer Science masters student at KTH Royal Institute of Technology, Sweden. 
   I consider myself a curious person and have experimented with different areas in Computer Science from Android Development to Sensor Technology.
