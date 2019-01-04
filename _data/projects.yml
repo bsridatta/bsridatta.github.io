@@ -1,7 +1,6 @@
 # Project template
 - name: Accident Anticipation
   link: drive.google.com/drive/folders/1caO8ICiDvKRwiAWtTdSqVeFvlUC3Ru05?usp=sharing
-  github: drive.google.com/drive/folders/1caO8ICiDvKRwiAWtTdSqVeFvlUC3Ru05?usp=sharing
   quote: >
     Real time accident detection in video feeds using Hierarchical Recurrent Neural Networks with LSTM cells. Trained on hand sampled clips from YouTube. Part of my bachelor thesis.
   description: | # this will include new lines to allow paragraphs
@@ -18,8 +17,7 @@
     
 # Project template
 - name: Safe Rider - Road Assistant
-  link: github.com/bsridatta/SafeRider/blob/master/Safe%20Rider.pdf
-  github: github.com/bsridatta/SafeRider/blob/master/Safe%20Rider.pdf
+  github: bsridatta/SafeRider/blob/master/Safe%20Rider.pdf
   quote: >
     Road safety application which warns users of road hazards in real-time. Detects hazards using on-board IMU sensors and Crowd-Sources the data to alert other users. Built the whole working application during a 24-hour hackathon.
   description: | # this will include new lines to allow paragraphs
@@ -110,7 +108,6 @@
 
 # Project template
 - name: Timely
-  link: bsridatta/Timely
   github: bsridatta/Timely
   quote: >
     An andorid app that I built along with 2 of my juniors whom I trained as a part of a workshop that I conducted.   
@@ -128,7 +125,6 @@
 
 # Project template
 - name: Book Crawler
-  link: github.com/bsridatta/BookCrawler
   github: github.com/bsridatta/BookCrawler
   quote: >
     My very first project that I was so passionate about. This is one of the reasons I had got into indoor localisation and worked in AMUDA labs. 
