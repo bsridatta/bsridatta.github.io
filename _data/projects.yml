@@ -15,6 +15,28 @@
 
     <mark>Python</mark> <mark>Keras</mark> <mark>Google Colabs</mark>
     
+- name: DeepLearning.ai
+  link: sridatta.ml/Deep-Learning-Specialization/
+  github: bsridatta/Deep-Learning-Specialization
+  quote: >
+    Projects as a part of the Deep Learning Specialization
+  description: | # this will include new lines to allow paragraphs
+    Major Projects are --Logistic Regression for Image classification 
+    --Deep Neural Network for Cat or Not a Cat classification
+    --Convolutional Neural Network using TensorFlow for Hand Sign Recognition
+    --Happy House using Keras for Facial Expression Classification
+    --Residual Networks for Hand Sign Recognition
+    --Autonomous Driving Application, Car detection using YOLO on Drive.ai dataset
+    --Face Recognition for the Happy House using FaceNet Architecture and OpenFace Model
+    --Art Generation with Neural Style Transfer using ImageNet VGG 16 Very Deep ConvNet
+    --Dinosaurus Name Generation using Character level language model 
+    --Shakespearian poem generator using RNN LSTM in Keras
+    --Music Generation, Jazz Solo with an LSTM Network
+
+    <mark>Python</mark> <mark>Keras</mark> <mark>TensorFlow</mark>
+    
+
+
 # Project template
 - name: Safe Rider - Road Assistant
   github: bsridatta/SafeRider/blob/master/Safe%20Rider.pdf
