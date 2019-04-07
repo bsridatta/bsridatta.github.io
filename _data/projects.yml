@@ -16,7 +16,8 @@
     Facebook Wav2Letter++ ASR on Swedish Speech
   description: | # this will include new lines to allow paragraphs
     Pre-processed NST’s Acoustic database for Swedish, to suit the Wav2Letter architecture, generating Language model
-    and tokens and tuning hyper parameters to study the working of W2L on Swedish language
+    and tokens and tuning hyper parameters to study the working of W2L on Swedish language.
+    
     <mark>W2L</mark> <mark>Python</mark> <mark>NST</mark> 
 
 
