@@ -3,11 +3,33 @@
   job_title: Driverless - Perception Lead
   dates: October 2018 - Present
   quote: >
-
+      
   description: |
     The lead of Perception : At Formula Student, we practice horizontal leadership. As the lead, I'm the point of contact and responsible for the perception pipeline of the driverless system which deals with object detection using the stereo camera and the lidar. And more importantly, I try to keep the team motivated. 
     Data Collection for Lidar: Setup tracks for our F1 car using color-coded traffic cones and used Velodyne VLP 16 to collect lidar point clouds. 
     Object detection: Currently working on squeeze net inspired Deep learning models and clustering techniques to detect cones in the environment in real-time.
+
+
+- company: DataKind 
+  link: www.datakind.org/
+  job_title: Voluntary Proposal Reviewer
+  dates: January 2019 - February 2019
+  quote: >
+    
+  description: | # this will include new lines to allow paragraphs
+    AI Project Review: Assess the feasibility and scalability of AI based project by companies seeking Google fund 
+
+
+
+- company: Amrita Multidimensional Data Analytics Lab
+  link: www.amrita.edu/school/engineering/coimbatore/computer-science/resources/amuda-lab
+  job_title: Research Assistant
+  dates: March 2017 – March 2018
+  quote: >
+    
+  description: | # this will include new lines to allow paragraphs
+    Had the pleasure of collaborating with Dr. Vidhya Balasubramanian, Ph.D., UCI. Worked on indoor localization using Dual band WiFi routers and Low Energy Bluetooth beacons. Studied the WiFi patterns in complex indoor environments and analyzed the trends in 2.4 and 5GHz. Designed algorithms to localize users without explicit fingerprinting and developed a mobile application to provide real-time indoor mapping services.
+
 
 - company: GeeksforGeeks
   link: www.geeksforgeeks.org/
@@ -21,12 +43,3 @@
     Collaborated with the best of them on an official application for the university.
     Created a platform for GeeksForGeeks to take part in tech talks at Amrita as part of national tech fest - Anokha.
     And few other management and marketing activities 
-
-- company: Amrita Multidimensional Data Analytics Lab
-  link: www.amrita.edu/school/engineering/coimbatore/computer-science/resources/amuda-lab
-  job_title: Research Assistant
-  dates: March 2017 – March 2018
-  quote: >
-    
-  description: | # this will include new lines to allow paragraphs
-    Had the pleasure of collaborating with Dr. Vidhya Balasubramanian, Ph.D., UCI. Worked on indoor localization using Dual band WiFi routers and Low Energy Bluetooth beacons. Studied the WiFi patterns in complex indoor environments and analyzed the trends in 2.4 and 5GHz. Designed algorithms to localize users without explicit fingerprinting and developed a mobile application to provide real-time indoor mapping services.

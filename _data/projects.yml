@@ -1,4 +1,25 @@
 # Project template
+
+- name: Swedish Traffic Sign Detection
+  link: 
+  quote: >
+    Real-time Swedish Traffic Sign Detection in ROS
+  description: | # this will include new lines to allow paragraphs
+    Collected and trained data from drone footage of 15 Swedish Traffic signs and integrated the Deep Learning model in
+    --Robot Operating System for real-time detections from the drone’s camera feed. Part of supervised project at KTH.
+    <mark>Darknet</mark> <mark>Python</mark> <mark>ROS</mark> <mark>Google Colabs</mark>
+
+
+- name: Wav2Letter++ on Swedish Speech
+  link: github.com/bsridatta/wav2letter-Swedish
+  quote: >
+    Facebook Wav2Letter++ ASR on Swedish Speech
+  description: | # this will include new lines to allow paragraphs
+    Pre-processed NST’s Acoustic database for Swedish, to suit the Wav2Letter architecture, generating Language model
+    and tokens and tuning hyper parameters to study the working of W2L on Swedish language
+    <mark>W2L</mark> <mark>Python</mark> <mark>NST</mark> 
+
+
 - name: Accident Anticipation
   link: drive.google.com/drive/folders/1caO8ICiDvKRwiAWtTdSqVeFvlUC3Ru05?usp=sharing
   quote: >
