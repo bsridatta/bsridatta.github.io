@@ -35,7 +35,7 @@
 
 
 - name: Wav2Letter++ on Swedish Speech
-  link: 
+  # link: 
   github: github.com/bsridatta/wav2letter-Swedish
   dates: February 2019 - March 2019
   quote: >
@@ -49,7 +49,7 @@
 
 - name: Accident Anticipation
   link: drive.google.com/drive/folders/1caO8ICiDvKRwiAWtTdSqVeFvlUC3Ru05?usp=sharing
-  github:
+  # github:
   dates: April 2018 - July 2018
   quote: >
     Real time accident detection in video feeds using Hierarchical Recurrent Neural Networks with LSTM cells. Trained on hand sampled clips from YouTube. Part of my bachelor thesis.
@@ -91,7 +91,7 @@
 # Project template
 - name: Safe Rider - Road Assistant
   github: bsridatta/SafeRider/blob/master/Safe%20Rider.pdf
-  link:
+  # link:
   dates: October 2017 - January 2018
   quote: >
     Road safety application which warns users of road hazards in real-time. Detects hazards using on-board IMU sensors and Crowd-Sources the data to alert other users. Built the whole working application during a 24-hour hackathon.
@@ -111,7 +111,7 @@
 # Project template
 - name: Twitter'e'con
   github: bsridatta/twittericon
-  link:
+  # link:
   dates: September 2017 - October 2017
   quote: >
     Sentimental Analysis tool to analyze real-time trends of keywords in Twitter. Classified live tweets from twitter API using ensemble modelling and implemented live graphical visualizations.   
@@ -152,8 +152,8 @@
 
 # Project template
 - name: Lego-Bot
-  link:
-  github:
+  # link:
+  # github:
   dates: May 2017 - May 2017
   #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
@@ -171,7 +171,7 @@
 # Project template
 - name: E-Chain
   link: doi.org/10.11591/ijeecs.v6.i3.pp688-694
-  github:
+  # github:
   dates: January 2017 - April 2017
   quote: >
     An emergency train stopping cum Surveillance system designed for Indian Railways. Awarded as top 30 ideas by Amrita TBI- India's best Technological Business Incubator.  
@@ -192,7 +192,7 @@
 # Project template
 - name: Timely
   github: bsridatta/Timely
-  link:
+  # link:
   dates: November 2017 - March 2018
   quote: >
     An andorid app that I built along with 2 of my juniors whom I trained as a part of a workshop that I conducted.   
@@ -211,7 +211,7 @@
 # Project template
 - name: Book Crawler
   github: github.com/bsridatta/BookCrawler
-  link:
+  # link:
   dates: November 2016 - January 2017
   quote: >
     My very first project that I was so passionate about. This is one of the reasons I had got into indoor localisation and worked in AMUDA labs. 
