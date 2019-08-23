@@ -3,6 +3,8 @@
 
 - name: Deep Image Colorization
   link: 
+  github:
+  dates: April 2019 - May 2019 
   quote: >
     Colorization of B&W images using Deep Learning
   description: | # this will include new lines to allow paragraphs
@@ -11,6 +13,8 @@
 
 - name: Classical Piano Composer Recognition
   link: 
+  github:
+  dates: March 2019 - June 2019
   quote: >
     Piano music composer recognition from audio clips 
   description: | # this will include new lines to allow paragraphs
@@ -19,7 +23,9 @@
 
 
 - name: Swedish Traffic Sign Detection for Autonomous Drone
-  link: 
+  link:
+  github:
+  dates: February 2019 - May 2019 
   quote: >
     Swedish Traffic Sign Detection in ROS
   description: | # this will include new lines to allow paragraphs
@@ -29,7 +35,9 @@
 
 
 - name: Wav2Letter++ on Swedish Speech
-  link: github.com/bsridatta/wav2letter-Swedish
+  link: 
+  github: github.com/bsridatta/wav2letter-Swedish
+  dates: February 2019 - March 2019
   quote: >
     Facebook Wav2Letter++ ASR on Swedish Speech
   description: | # this will include new lines to allow paragraphs
@@ -41,6 +49,8 @@
 
 - name: Accident Anticipation
   link: drive.google.com/drive/folders/1caO8ICiDvKRwiAWtTdSqVeFvlUC3Ru05?usp=sharing
+  github:
+  dates: April 2018 - July 2018
   quote: >
     Real time accident detection in video feeds using Hierarchical Recurrent Neural Networks with LSTM cells. Trained on hand sampled clips from YouTube. Part of my bachelor thesis.
   description: | # this will include new lines to allow paragraphs
@@ -58,6 +68,7 @@
 - name: DeepLearning.ai
   link: sridatta.ml/Deep-Learning-Specialization/
   github: bsridatta/Deep-Learning-Specialization
+  dates: November 2017 - March 2018
   quote: >
     Projects as a part of the Deep Learning Specialization
   description: | # this will include new lines to allow paragraphs
@@ -80,6 +91,8 @@
 # Project template
 - name: Safe Rider - Road Assistant
   github: bsridatta/SafeRider/blob/master/Safe%20Rider.pdf
+  link:
+  dates: October 2017 - January 2018
   quote: >
     Road safety application which warns users of road hazards in real-time. Detects hazards using on-board IMU sensors and Crowd-Sources the data to alert other users. Built the whole working application during a 24-hour hackathon.
   description: | # this will include new lines to allow paragraphs
@@ -98,6 +111,8 @@
 # Project template
 - name: Twitter'e'con
   github: bsridatta/twittericon
+  link:
+  dates: September 2017 - October 2017
   quote: >
     Sentimental Analysis tool to analyze real-time trends of keywords in Twitter. Classified live tweets from twitter API using ensemble modelling and implemented live graphical visualizations.   
   description: | # this will include new lines to allow paragraphs
@@ -117,6 +132,7 @@
 - name: Indoor Localization and Navigation
   link: sridatta.ml/Indoor-Localisation/
   github: bsridatta/Indoor-Localisation
+  dates: March 2017 - March 2018
   quote: >
     Indoor position system that localizes users using dual band WiFi routers and Low Energy Bluetooth Beacons without any manual fingerprinting of the environment.  
   description: | # this will include new lines to allow paragraphs
@@ -136,6 +152,9 @@
 
 # Project template
 - name: Lego-Bot
+  link:
+  github:
+  dates: May 2017 - May 2017
   #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
@@ -152,6 +171,8 @@
 # Project template
 - name: E-Chain
   link: doi.org/10.11591/ijeecs.v6.i3.pp688-694
+  github:
+  dates: January 2017 - April 2017
   quote: >
     An emergency train stopping cum Surveillance system designed for Indian Railways. Awarded as top 30 ideas by Amrita TBI- India's best Technological Business Incubator.  
   description: | # this will include new lines to allow paragraphs
@@ -171,6 +192,8 @@
 # Project template
 - name: Timely
   github: bsridatta/Timely
+  link:
+  dates: November 2017 - March 2018
   quote: >
     An andorid app that I built along with 2 of my juniors whom I trained as a part of a workshop that I conducted.   
   description: | # this will include new lines to allow paragraphs
@@ -188,6 +211,8 @@
 # Project template
 - name: Book Crawler
   github: github.com/bsridatta/BookCrawler
+  link:
+  dates: November 2016 - January 2017
   quote: >
     My very first project that I was so passionate about. This is one of the reasons I had got into indoor localisation and worked in AMUDA labs. 
   description: | # this will include new lines to allow paragraphs
