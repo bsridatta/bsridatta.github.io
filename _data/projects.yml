@@ -1,12 +1,30 @@
 # Project template
 
-- name: Swedish Traffic Sign Detection
+
+- name: Deep Image Colorization
   link: 
   quote: >
-    Real-time Swedish Traffic Sign Detection in ROS
+    Colorization of B&W images using Deep Learning
   description: | # this will include new lines to allow paragraphs
-    Collected and trained data from drone footage of 15 Swedish Traffic signs and integrated the Deep Learning model in
-    --Robot Operating System for real-time detections from the drone’s camera feed. Part of supervised project at KTH.
+    Using autoencoder network to predict color given a gray scale image i.e pridicts a,b channel given l channel in 'lab' color space. Leverages the power of pre-trained networks to effectively extract important low level features from the input gray scale image. These low level features are then fused with the low level features from the encoder and provided as the input for the decoder.   
+    <mark>Keras</mark> <mark>ImageNet</mark> <mark>GCP</mark>
+
+- name: Classical Piano Composer Recognition
+  link: 
+  quote: >
+    Piano music composer recognition from audio clips 
+  description: | # this will include new lines to allow paragraphs
+    Exploring the relations between the composers and compositions using Mel-scaled spectrogram and leveraging the power of convolutions to learn the low-level features and the temporal information using memory units like LSTMs and GRUs. This enables our models to not only understand the notes but also to learn the melody.  
+    <mark>Keras</mark> <mark>TensorFlow</mark> <mark>Magenta</mark>
+
+
+- name: Swedish Traffic Sign Detection for Autonomous Drone
+  link: 
+  quote: >
+    Swedish Traffic Sign Detection in ROS
+  description: | # this will include new lines to allow paragraphs
+    Collected training data of 15 Swedish traffic signs from drone footage and integrated the trained YoLo model in ROS for
+    detections on drone’s live feed. Extracted edges of signs and used Perspective-n-Point to estimate their 3D position
     <mark>Darknet</mark> <mark>Python</mark> <mark>ROS</mark> <mark>Google Colabs</mark>
 
 
