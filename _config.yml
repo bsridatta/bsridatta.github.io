@@ -64,6 +64,7 @@ footer_show_references: false
 # remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
 
 remote_theme: bsridatta/modern-resume-theme
+
 #sproogen/modern-resume-theme
 
 sass:
