@@ -29,8 +29,8 @@ about_profile_image: images/best.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Sri Datta and I'm a Computer Science masters student at KTH Royal Institute of Technology, Sweden. 
   I consider myself a curious person and have experimented with different areas in Computer Science from Android Development to Sensor Technology.
-  I pretty much loved "everything" that I did but at the bottom of my heart, I love Physics and the way it teaches us about nature.
-  Like many of you reading this I wanted to see what this "AI" is about. 
+  I pretty much loved "everything" that I did so far but at the bottom of my heart, I love Physics and the way it teaches us about nature.
+  Like many of you reading this I wanted to see what this "AI" is about and how we can use it to solve complex problems. 
   Thanks to Andrew NG's DeepLearning.ai and Siraj Raval's motivational videos, 
   I was so fascinated by the scope of its applications and I immediately packed my bags to Stockholm to get really involved.
   Now I spend the majority of my time doing very interesting courses at KTH and working on an autonomous F1 car at KTH Formula Student.
@@ -52,11 +52,9 @@ about_content: | # this will include new lines to allow paragraphs
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in Deep Learning and Autonomous Systems, some of my other interests and hobbies are:
-   - Watching Movies
+   - Watching Movies (a lot!)
    - Listening to Music
    - Admiring the beauty of nature
-   
- 
  
 # Footer
 footer_show_references: false
