@@ -2,8 +2,8 @@
 
 
 - name: Deep Image Colorization
-  link: 
-  github:
+  link: github.com/bsridatta/Deep-Image-Colorization/blob/master/Project_Report.pdf
+  github: github.com/bsridatta/Deep-Image-Colorization
   dates: April 2019 - May 2019 
   quote: >
     Colorization of B&W images using Deep Learning
@@ -12,8 +12,8 @@
     <mark>Keras</mark> <mark>ImageNet</mark> <mark>GCP</mark>
 
 - name: Classical Piano Composer Recognition
-  link: 
-  github:
+  link: github.com/bsridatta/pianition/blob/master/Project_report__Draft.pdf
+  github: github.com/nikvaessen/pianition
   dates: March 2019 - June 2019
   quote: >
     Piano music composer recognition from audio clips 
@@ -23,8 +23,8 @@
 
 
 - name: Swedish Traffic Sign Detection for Autonomous Drone
-  link:
-  github:
+  link: youtu.be/VKqXa_NXNKc
+  github: github.com/bsridatta/Autonomous-Drone-DD2419-KTH
   dates: February 2019 - May 2019 
   quote: >
     Swedish Traffic Sign Detection in ROS
