@@ -3,7 +3,7 @@
 
 - name: Deep Image Colorization
   link: github.com/bsridatta/Deep-Image-Colorization/blob/master/Project_Report.pdf
-  github: github.com/bsridatta/Deep-Image-Colorization
+  github: bsridatta/Deep-Image-Colorization
   dates: April 2019 - May 2019 
   quote: >
     Colorization of B&W images using Deep Learning
@@ -13,7 +13,7 @@
 
 - name: Classical Piano Composer Recognition
   link: github.com/bsridatta/pianition/blob/master/Project_report__Draft.pdf
-  github: github.com/nikvaessen/pianition
+  github: nikvaessen/pianition
   dates: March 2019 - June 2019
   quote: >
     Piano music composer recognition from audio clips 
@@ -24,7 +24,7 @@
 
 - name: Swedish Traffic Sign Detection for Autonomous Drone
   link: youtu.be/VKqXa_NXNKc
-  github: github.com/bsridatta/Autonomous-Drone-DD2419-KTH
+  github: bsridatta/Autonomous-Drone-DD2419-KTH
   dates: February 2019 - May 2019 
   quote: >
     Swedish Traffic Sign Detection in ROS
@@ -36,7 +36,7 @@
 
 - name: Wav2Letter++ on Swedish Speech
   # link: 
-  github: github.com/bsridatta/wav2letter-Swedish
+  github: bsridatta/wav2letter-Swedish
   dates: February 2019 - March 2019
   quote: >
     Facebook Wav2Letter++ ASR on Swedish Speech
@@ -210,7 +210,7 @@
 
 # Project template
 - name: Book Crawler
-  github: github.com/bsridatta/BookCrawler
+  github: bsridatta/BookCrawler
   # link:
   dates: November 2016 - January 2017
   quote: >
