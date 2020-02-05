@@ -1,6 +1,17 @@
 # Project template
 
 
+- name: Binarized Neural Networks
+  link: github.com/bsridatta/Rethinking-Binarized-Neural-Network-Optimization/blob/master/report/reproducibility_report.pdf
+  github: bsridatta/Rethinking-Binarized-Neural-Network-Optimization
+  dates: Oct 2019 – Dec 2019
+  quote: >
+    Project for NeurIPS19 Reproducibility challenge
+  description: | # this will include new lines to allow paragraphs
+  Reimplementing and reproducing "Latent Weights Do Not Exist: Rethinking Binarized Neural Network Optimization" from scratch. The pipeline uses PyTorch and also PyTorch Lightning to ensure reproducibility. Reimplement the binary layers and the novel binary optimizer BOP. Experiments comparing the performance of BNNs with latent weights and BNN w/o latent weights using BOP. Experiments to study the effects of the thresholding and adaptivity rate hyperparameters of BOP.
+  <mark>PyTorch</mark> <mark>PyTorch Lightning</mark>
+    
+
 - name: Deep Image Colorization
   link: github.com/bsridatta/Deep-Image-Colorization/blob/master/Project_Report.pdf
   github: bsridatta/Deep-Image-Colorization
