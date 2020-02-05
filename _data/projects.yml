@@ -7,7 +7,7 @@
   quote: >
     Project for NeurIPS19 Reproducibility challenge  
   description: | # this will include new lines to allow paragraphs
-    Reimplementing and reproducing the paper, Latent Weights Do Not Exist - Rethinking Binarized Neural Network Optimization from scratch. The pipeline uses PyTorch and also PyTorch Lightning to ensure reproducibility. Reimplement the binary layers and the novel binary optimizer BOP. Experiments comparing the performance of BNNs with latent weights and BNN w/o latent weights using BOP. Experiments to study the effects of the thresholding and adaptivity rate hyperparameters of BOP.
+    Reimplementing and reproducing the paper, Latent Weights Do Not Exist - Rethinking Binarized Neural Network Optimization from scratch. The pipeline uses PyTorch and also PyTorch Lightning to ensure reproducibility. Reimplement the binary layers and the novel binary optimizer BOP. Experiments comparing the performance of BNNs with latent weights and BNN w/o latent weights using BOP. Experiments to study the effects of the thresholding and adaptivity rate hyperparameters of BOP.  
     <mark>PyTorch</mark> <mark>PyTorch Lightning</mark>
 
 - name: RobotFashion
