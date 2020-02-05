@@ -8,6 +8,16 @@
     Object Detection: 3D position estimation of traffic cones using improvised YoLoV3 on stereo camera data and ground removal plus clustering techniques over 3D LiDAR point cloud for racetrack/drivable area identification
     Sensor Calibration: Calibration of LiDAR and stereo camera using 3D-3D point correspondence to project 3D LiDAR points over 2D image for enabling sensor fusion and also for color lookup for LiDAR objects
 
+- company: Robotics, Perception and Learning Lab at KTH 
+  link: www.kth.se/rpl/division-of-robotics-perception-and-learning-1.779439
+  job_title: Research Engineer
+  dates: Sep 2019 - Oct 2019
+  quote: >
+    
+  description: | # this will include new lines to allow paragraphs
+    Research engineer at RPL in Prof. Hedvig Kjellström's group under Taras Kucherenko. My work was to help Taras with the dataset preparation process for to train models to learn semantic gesture generation from speech inputs. This included annotation/rectification of audio transcript generated using BERT and also prototyping tools to help with data annotation.
+
+
 - company: AI without Borders  
   link: https://sites.google.com/view/research-without-borders/home
   job_title: Intern
