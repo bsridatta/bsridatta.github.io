@@ -5,10 +5,10 @@
   quote: >
       
   description: |
-    The lead of Perception -- At KTH Formula Student, we practice horizontal leadership. As the lead, I'm mainly the point of contact and responsible for the perception pipeline of the driverless system. This deals with object detection using the stereo camera and the lidar. The following are my contributions to the team and the perception module in specific.
-    Data Collection -- Setup tracks for the F1 car using color-coded traffic cones and used Velodyne VLP 16 and Zed stereo camera to collect lidar point clouds and stereo RGB images.
-    Object detection -- Trained versions of YOLO for detections on camera and trying to improve inference speed on Xavier with TensorRT. Angle based ground removal and clustering on the point clouds
-    Calibration -- Have tried and tested image-based, intensity-based and topography based calibration approaches to calibrate lidar and stereo camera
+    The lead of Perception -- At KTH Formula Student, we practice horizontal leadership. As the lead, I'm mainly the point of contact and responsible for the perception pipeline of the driverless system. This deals with object detection using the stereo camera and the lidar. The following are my contributions to the team and the perception module in specific.  
+    Data Collection -- Setup tracks for the F1 car using color-coded traffic cones and used Velodyne VLP 16 and Zed stereo camera to collect lidar point clouds and stereo RGB images.  
+    Object detection -- Trained versions of YOLO for detections on camera and trying to improve inference speed on Xavier with TensorRT. Angle based ground removal and clustering on the point clouds.  
+    Calibration -- Have tried and tested image-based, intensity-based and topography based calibration approaches to calibrate lidar and stereo camera.  
 
 - company: RPL - Robotics, Perception and Learning Lab at KTH 
   link: www.kth.se/rpl/division-of-robotics-perception-and-learning-1.779439
