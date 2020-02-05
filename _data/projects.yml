@@ -20,6 +20,16 @@
     A dataset on classifying and localizing clothing in a deformed state by robotic manipulation. Novel dataset that is different from the existing fashion datasets which could be well suited for robotic applications and also has additional depth information from stereo cameras. Preparing a diverse collection of clothes across various categories. Used Baxter robot to automate the manipulation of the clothes into various states. Synchronize real sense stereo cameras - one on the body of the Baxter and one facing the robot. Manually pick frames with clothes in key states and annotate them with bounding boxes. Performed various experiments to evaluate the dataset. This includes exploring the effects of pre-trained models, incorporating DeepFashion2 and effects of complex models with FPN backbone using PyTorch
     <mark>PyTorch</mark> <mark>PyTorch Lightning</mark>
 
+- name: YT Trends
+  link: github.com/bsridatta/robotfashion/blob/master/RobotFashion%20Report.pdf
+  github: bsridatta/robotfashion
+  dates: Sep 2019 - Oct 2019
+  quote: >
+    Scalable pipeline for live YouTube trend visualization  
+  description: | # this will include new lines to allow paragraphs
+    Live data using YouTube Data API. Kafka broker as a producer to streams the queries. PySpark to consume the stream topic and perform desired operations. The results of PySpark operations are stored in spark-warehouse and ready for visualization.
+    <mark>PySpark</mark> <mark>Kafka</mark>
+
 - name: Deep Image Colorization
   link: github.com/bsridatta/Deep-Image-Colorization/blob/master/Project_Report.pdf
   github: bsridatta/Deep-Image-Colorization
