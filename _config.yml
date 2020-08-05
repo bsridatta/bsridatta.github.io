@@ -27,18 +27,13 @@ facebook_username: sridatta.budaraju
 about_title: A Little About Me
 about_profile_image: images/best.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Sri Datta and I'm a Computer Science masters student at KTH Royal Institute of Technology, Sweden. 
-  I consider myself a curious person and have experimented with different areas in Computer Science from Android Development to Sensor Technology.
-  I pretty much loved "everything" that I did so far but at the bottom of my heart, I love Physics and the way it teaches us about nature.
-  Like many of you reading this I wanted to see what this "AI" is about and how we can use it to solve complex problems. 
-  Thanks to Andrew NG's DeepLearning.ai,I was so fascinated by the scope of its applications and I immediately packed my bags to Stockholm to get really involved.
-  Now I spend the majority of my time doing very interesting courses at KTH and working on an autonomous F1 car at KTH Formula Student.I am currently doing my master thesis in unsupervised 3D human pose estimation. 
+  Hi, my name is Sri Datta and I am a Masters student in Computer Science at KTH Royal Institute of Technology. I consider myself a curious person and have experimented with different areas of Computer Science, from Android Development to Deep Learning.
 
-  I am actively looking for full time positions in deep learning. 
-  
+  Like many other students, I wanted to see what this “AI” is all about and started exploring. Thanks to Andrew NG’s DeepLearning.ai course that was then just released, I was so fascinated by the scope of its applications and I immediately packed my bags to Stockholm to pursue my masters and get really involved. I have spent the majority of my time doing interesting courses at KTH and working on an autonomous F1 car at KTH Formula Student. I am currently doing my master thesis in unsupervised 3D human pose estimation. 
+
+  I am actively looking for full time positions in deep learning.
 
 # projects_title: Projects
-
 
 # Experience Section
 
