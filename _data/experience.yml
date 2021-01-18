@@ -1,11 +1,11 @@
 - company: Mercedes Benz
   link: 
   job_title: Thesis Intern
-  dates: June 2020 - Present
+  dates: June 2020 - Dec 2020
   quote: >
       
   description: |
-    Exploring novel unsupervised learning approaches for 3D human pose estimation
+    Research in unsupervised learning approaches for 3D human pose estimation using VAE-GAN hybrid generative models
 
 - company: KTH Formula Student - Driverless Formula Racing
   link: www.kthformulastudent.se/
