@@ -1,12 +1,15 @@
 - company: Mercedes Benz
-  link: 
+  link: http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-291435
   job_title: Thesis Intern
   dates: June 2020 - Dec 2020
   quote: >
       
   description: |
-    Research in unsupervised learning approaches for 3D human pose estimation using VAE-GAN hybrid generative models
-
+    Research in unsupervised learning approaches for 3D human pose estimation using VAE-GAN hybrid generative models.  
+    First work to introduce VAE-GAN hybrid networks to the task of 3D pose estimation and one of the few unsupervised methods.  
+    First 2D-to-3D pose lifting approach that addresses the major challenges in scaling to the real-world. The method also outperforms the previous SOTA in the most widely used dataset in similar settings.  
+    [Thesis Publication Link](http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-291435)   
+    
 - company: KTH Formula Student - Driverless Formula Racing
   link: www.kthformulastudent.se/
   job_title: Lead Perception Engineer
