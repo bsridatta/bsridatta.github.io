@@ -21,8 +21,8 @@
     <mark>PyTorch</mark> <mark>PyTorch Lightning</mark>
 
 - name: YT Trends
-  link: github.com/bsridatta/robotfashion/blob/master/RobotFashion%20Report.pdf
-  github: bsridatta/robotfashion
+  #link: https://github.com/bsridatta/Data-Intensive-Computing
+  github: https://github.com/bsridatta/Data-Intensive-Computing
   dates: Sep 2019 - Oct 2019
   quote: >
     Scalable pipeline for live YouTube trend visualization  
