@@ -5,8 +5,8 @@
   quote: >
       
   description: |
-    Automated resource provisioning with Ansible, along with monitoring and alert management with Prometheus and Grafana.
-    Implemented automated acceptance tests using Robot Framework and Python.
+    Automated resource provisioning with Ansible, along with monitoring and alert management with Prometheus and Grafana.  
+    Implemented automated acceptance tests using Robot Framework and Python.  
   # Refactoring Gerrit repository and configuring Zuul CI pipeline.
 
 
@@ -20,7 +20,7 @@
     Research in unsupervised learning approaches for 3D human pose estimation using VAE-GAN hybrid generative models.  
     First work to introduce VAE-GAN hybrid networks to the task of 3D pose estimation and one of the few unsupervised methods.  
     First 2D-to-3D pose lifting approach that addresses the major challenges in scaling to the real-world. The method also outperforms the previous SOTA in the most widely used dataset in similar settings.  
-    [Thesis Publication Link](http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-291435)   [Thesis Presentation](https://docs.google.com/presentation/d/167crr5xf_YZ8U8hUgSEpa6ah-odgo1ag0sWCCX0omBo/edit?usp=sharing)   
+    Thesis - [[Publication](http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-291435), [Presentation](https://docs.google.com/presentation/d/167crr5xf_YZ8U8hUgSEpa6ah-odgo1ag0sWCCX0omBo/edit?usp=sharing)]   
     
 - company: KTH Formula Student - Driverless Formula Racing
   link: www.kthformulastudent.se/
@@ -70,9 +70,9 @@
   quote: >
     
   description: | # this will include new lines to allow paragraphs
-    Worked on indoor localization using Dual band WiFi routers and Low Energy Bluetooth beacons. 
-    Studied the WiFi patterns in complex indoor environments and analyzed the trends in 2.4 and 5GHz. 
-    Designed algorithms to localize users without explicit fingerprinting and developed a mobile application to provide real-time indoor mapping services.
+    Worked on indoor localization using Dual band WiFi routers and Low Energy Bluetooth beacons.   
+    Studied the WiFi patterns in complex indoor environments and analyzed the trends in 2.4 and 5GHz.   
+    Designed algorithms to localize users without explicit fingerprinting and developed a mobile application to provide real-time indoor mapping services.  
 
 
 - company: GeeksforGeeks
